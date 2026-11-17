@@ -29,9 +29,9 @@ switch (lang) {
 console.log(days[languages.indexOf(lang)])
 
 // 2
-let namePerson = "Артём";
+let namePerson = "Артем";
 
-namePerson === "Артём" ? console.log("директор") :
+namePerson === "Артем" ? console.log("директор") :
     namePerson === "Александр" ? console.log("преподаватель") :
         console.log("студент");
 
